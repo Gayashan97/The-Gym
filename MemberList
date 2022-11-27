@@ -1,0 +1,13 @@
+[
+ Default Member{ MemberID : D03 , Member Name : ASDF ,  Membership Start Date : Mon Dec 10 00:00:00 IST 1917}, 
+ Default Member{ MemberID : D10 , Member Name : aza ,  Membership Start Date : Fri Jan 12 00:09:00 IST 2018}, 
+ Default Member{ MemberID : D15 , Member Name : Gayashan ,  Membership Start Date : null}, 
+ Over 60 Member{ MemberID : O06 , Member Name : Madush , Membership Start Date : Sat Jan 12 00:09:00 IST 2019 , Age : 25}, 
+ Over 60 Member{ MemberID : O90 , Member Name : Madush , Membership Start Date : Sat Jan 12 00:09:00 IST 2019 , Age : 25}, 
+ Student Member{ MemberID : S02 , Member Name : Nimal , Membership Start Date : Tue Jan 23 00:09:00 IST 2018 , School Name : Peters}, 
+ Default Member{ MemberID : D05 , Member Name : Osura ,  Membership Start Date : Sat Jan 12 00:09:00 IST 2019}, 
+ Default Member{ MemberID : D06 , Member Name : Osuri ,  Membership Start Date : Sat Jan 12 00:09:00 IST 2019}, 
+ Default Member{ MemberID : D60 , Member Name : Osuri ,  Membership Start Date : Sat Jan 12 00:09:00 IST 2019}, 
+ Student Member{ MemberID : S06 , Member Name : Shane , Membership Start Date : Sat Jan 12 00:09:00 IST 2019 , School Name : Joseph}, 
+ Student Member{ MemberID : S50 , Member Name : Shane , Membership Start Date : Sat Jan 12 00:09:00 IST 2019 , School Name : Joseph}, 
+ Over 60 Member{ MemberID : O02 , Member Name : Sunil , Membership Start Date : Tue Jan 12 00:08:00 IST 2010 , Age : 23}]
